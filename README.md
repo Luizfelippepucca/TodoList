@@ -9,3 +9,7 @@ E rode Flutter run.
 
 
 ## Funcionalidaes:
+1. Adiconar uma tarefa
+2. Exluir uma tarefa
+3.reordenar tarefas existente.
+
