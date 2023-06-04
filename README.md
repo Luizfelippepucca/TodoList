@@ -12,4 +12,5 @@ E rode Flutter run.
 1. Adiconar uma tarefa
 2. Exluir uma tarefa
 3. Reordenar tarefas existente.
+4. Input limpa automaticamente após ser adicionada um tarefa
 
