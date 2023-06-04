@@ -14,3 +14,5 @@ E rode Flutter run.
 3. Reordenar tarefas existente.
 4. Input limpa automaticamente após ser adicionada um tarefa
 
+![emptystate](https://github.com/Luizfelippepucca/TodoList/assets/52139246/c87fbb0b-9059-49c0-9974-8642b3cfc59c)
+
