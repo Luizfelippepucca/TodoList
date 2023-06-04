@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+Lista de Tarfeas criada utilizando flutter.
 
 ## Getting Started
 
